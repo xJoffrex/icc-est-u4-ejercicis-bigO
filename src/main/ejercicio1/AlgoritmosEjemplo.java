@@ -5,7 +5,7 @@ public class AlgoritmosEjemplo {
     // 1. Imprimir todos los elementos de un arreglo
     public static void imprimirArreglo(int[] arr) {
         for (int n : arr) {
-            System.out.print(n + " ");
+            System.out.print(n + "");
         }
     }
 
